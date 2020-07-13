@@ -1,11 +1,12 @@
 <?php
 /*
-Plugin Name: MyPlugin
+Plugin Name: WeatherMail
 Plugin URI:
-Description: My first plugin on Wordpress
+Description: A Little Plug-In to give the weather and send newsletter to your users
 Version: 0.1
 Author: TheFury-BOY
 Author URI: http://github.com/TheFury-BOY
+Website URI: https://adriendudeck.online
 Licence: MIT
 */
 
